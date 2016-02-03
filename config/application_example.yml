@@ -1,0 +1,5 @@
+# WooCommerce Api
+#
+WOO_KEY = 'Your-WooCommerce-Api-Key'
+WOO_SECRET = 'Your-WooCommerce-Api-Secret'
+WOO_URL = 'Your-WoocCommerce-Api-Remote-Url'
